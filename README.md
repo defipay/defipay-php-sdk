@@ -33,7 +33,7 @@ defipay-php-api 是一個輕量級的 php 庫，用於與[Defipay API](http://do
 ``` json
 "require": {
     ...
-    "defipay/api": "0.1",
+    "defipay/api": "*",
   }
 ```
 
